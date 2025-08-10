@@ -13,6 +13,10 @@ Overview of the project
 
 Project : Career Aspiration Analytics
 
+● Cleaned, standardized, and analyzed 3000+ rows of data using Advanced Excel and SQL to answer business questions, uncover actionable insights, and support strategic decision-making. 
+● Created an executive dashboard in Excel and Functional dashboards in Power BI to deliver actionable insights in general through impactful data storytelling. 
+● Designed and presented a comprehensive stakeholder-facing presentation covering project objectives, methodology, key findings, and recommendations—translating analytical outcomes into strategic actions.
+
 Functional Dashboards in Power BI
 
 <img width="1306" height="736" alt="Screenshot 2025-08-10 174946" src="https://github.com/user-attachments/assets/74d1d76a-1fd3-498f-bbd0-d7fc31234951" />
