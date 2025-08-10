@@ -9,3 +9,10 @@ Functional Dashboards in Power BI
 Executive Dashboard in Excel
 
 <img width="1849" height="659" alt="Screenshot 2025-03-03 224946" src="https://github.com/user-attachments/assets/a3750c1b-9243-4afb-bb61-4e014190148f" />
+
+
+Stage 1 : Problem Statement Documentation
+Stage 2 : Data Collection for Project
+Stage 3: Data Cleaning and Standardisation using Excel 
+Stage 4:Exploratory Data Analysis using Excel
+Stage 5: Data Analysis using SQL
