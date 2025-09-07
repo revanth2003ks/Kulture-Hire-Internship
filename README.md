@@ -11,7 +11,7 @@ Mentor : Kadhiravan Jayachandiran
 
 Overview of the project
 
-"Project is "Understanding the career aspirations of Gen Z"
+Project -> "Understanding the career aspirations of Gen Z"
 
 Why this Project:
 
