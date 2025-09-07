@@ -11,7 +11,7 @@ Mentor : Kadhiravan Jayachandiran
 
 Overview of the project
 
-Project -> "Understanding the career aspirations of Gen Z"
+### Project -> "Understanding the career aspirations of Gen Z"
 
 Why this Project:
 
@@ -22,7 +22,7 @@ Current Challenges:
 Gen Z has a different work expectations, Their ideal employer is hard to to find, and at the same time employers struggle to attract, manage and retain Gen Z workforce, as their existing work policies often do not align with these expectations
 
 
-Functional Dashboards in Power BI
+### Functional Dashboards in Power BI
 
 <img width="1306" height="736" alt="Screenshot 2025-08-10 174946" src="https://github.com/user-attachments/assets/74d1d76a-1fd3-498f-bbd0-d7fc31234951" />
 
