@@ -28,15 +28,15 @@ Gen Z has a different work expectations, Their ideal employer is hard to to find
 
 <img width="1293" height="736" alt="Screenshot 2025-08-10 174550" src="https://github.com/user-attachments/assets/41e6feee-7b00-46b2-94e4-80c31c436b49" />
 
-Stage 1 : Problem Statement Documentation
+### Stage 1 : Problem Statement Documentation
 
 Gen Z feels ignored when chasing jobs they want, and employers can’t figure out how to hire or keep them. The goal is to understand what Gen Z expects from work and help employers meet those needs, so both sides get what they want
 
-Stage 2 : Data Collection for Project
+### Stage 2 : Data Collection for Project
 
-Stage 3: Data Cleaning and Standardisation using Excel 
+### Stage 3: Data Cleaning and Standardisation using Excel 
 
-Stage 4:Exploratory Data Analysis using Excel
+### Stage 4:Exploratory Data Analysis using Excel
 
 1. What industries are Gen-Z most interested in pursuing careers in?
 
@@ -48,11 +48,11 @@ Stage 4:Exploratory Data Analysis using Excel
 
 5. What role do personal values and social impact play in career choices for Gen-Z?
 
-Executive Dashboard in Excel
+### Executive Dashboard in Excel
 
 <img width="1849" height="659" alt="Screenshot 2025-03-03 224946" src="https://github.com/user-attachments/assets/a3750c1b-9243-4afb-bb61-4e014190148f" />
 
-Stage 5: Data Analysis using SQL
+### Stage 5: Data Analysis using SQL
 
 1. What industries are Gen-Z most interested in pursuing careers in?
 
