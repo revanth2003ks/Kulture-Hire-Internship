@@ -3,7 +3,7 @@ Name : Revanth KS
 
 Company : Kulture-Hire
 
-Domain : PowerBI
+Domain : Data Analytics 
 
 Duration : January 9,2025 to March 17, 2025
 
